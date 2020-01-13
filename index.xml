@@ -20,7 +20,9 @@
       
         <description>&lt;p&gt;blog
 &lt;a href=&#34;https://www.ipget.ga/&#34;&gt;IPGet专利检索系统&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;IPGet专利检索系统&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ipget.ga/&#34; target=&#34;_blank&#34;&gt;IPGet专利检索系统&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width=&#34;100%&#34;
+    height=&#34;600&#34; src=&#34;https://www.ipget.ga/&#34;&gt;dasfds&lt;/iframe&gt;
 </description>
       
     </item>
