@@ -2,24 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on IPGet专利检索系统</title>
-    <link>/post/</link>
+    <link>https://blog.ipget.ga/post/</link>
     <description>Recent content in Posts on IPGet专利检索系统</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 13 Jan 2020 02:09:58 +0800</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ipget.ga/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>IPGet专利检索系统介绍</title>
-      <link>/post/post_0001/</link>
+      <link>https://blog.ipget.ga/post/post_0001/</link>
       <pubDate>Mon, 13 Jan 2020 02:09:58 +0800</pubDate>
       
-      <guid>/post/post_0001/</guid>
-      <description>blog IPGet专利检索系统
-IPGet专利检索系统
-dasfds </description>
+      <guid>https://blog.ipget.ga/post/post_0001/</guid>
+      <description>blog IPGet专利检索系统 IPGet专利检索系统 dasfds</description>
     </item>
     
   </channel>

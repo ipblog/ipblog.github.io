@@ -1,35 +1,35 @@
-<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://blog.ipget.ga/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/</loc>
+    <loc>https://blog.ipget.ga/</loc>
     <lastmod>2020-01-13T02:09:58+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/post/post_0001/</loc>
+    <loc>https://blog.ipget.ga/post/post_0001/</loc>
     <lastmod>2020-01-13T02:09:58+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://blog.ipget.ga/post/</loc>
     <lastmod>2020-01-13T02:09:58+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://blog.ipget.ga/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://blog.ipget.ga/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
